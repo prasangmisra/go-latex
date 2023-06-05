@@ -1,4 +1,4 @@
-package golatex
+package go_latex
 
 import (
 	"io/ioutil"
